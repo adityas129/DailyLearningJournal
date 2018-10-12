@@ -1,6 +1,6 @@
-# Turing Machine Parable 
+#Turing Machine Parable 
 
-##### A turing machine is basically an abstraction/model of the simplest 
+#####A turing machine is basically an abstraction/model of the simplest 
 computer that can be produced. However, the power lies in its simplicity; it
 can perform any computation/algorithm/program that any programming language could perform. 
 Therefore, it is implied that any problem that can not be resolved by a turing machine cannot 
